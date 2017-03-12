@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9B181376-F2F1-4FA1-ACB6-4ACC97FA7B50}</ProjectGuid>
+    <ProjectGuid>{360378B7-563C-41A9-AABF-C72EEEDB58AD}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>学生成绩管理系统</RootNamespace>
+    <RootNamespace>StudentInformationManagementSystem</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
