@@ -26,7 +26,7 @@ private:
 	int id;
 	const string name;  // 常成员
 };
-Student::Student(int i, string pStr):name(pStr)
+Student::Student(int i, string pStr):name(pStr)  //后面的冒号是构造函数的对成员变量的赋值方法，更常用于const型变量，因为const型变量没办法通过后面的代码赋值
 {
 	id = i;
 }
